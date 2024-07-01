@@ -1,0 +1,13 @@
+server:
+  port: 8033
+
+dubbo:
+  application:
+    name: dubbo-provider
+  registry:
+    address: zookeeper://39.107.235.5:2181
+
+spring:
+  dubbo:
+    protocol:
+      port: 20883

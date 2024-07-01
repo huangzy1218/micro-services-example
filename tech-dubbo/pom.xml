@@ -10,5 +10,16 @@
     </parent>
 
     <artifactId>tech-dubbo</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>tech-dubbo-api</module>
+        <module>tech-dubbo-provider</module>
+        <module>tech-dubbo-consumer</module>
+    </modules>
+
+    <properties>
+        <dubbo.version>3.2.10</dubbo.version>
+        <curator.version>4.2.0</curator.version>
+    </properties>
 
 </project>
