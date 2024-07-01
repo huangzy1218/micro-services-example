@@ -1,4 +1,4 @@
-package example.controller;
+package example.consumer.controller;
 
 import com.alibaba.dubbo.config.annotation.Reference;
 import org.example.HelloService;
@@ -13,8 +13,7 @@ public class HelloController {
 
     @RequestMapping("/hello")
     public String hello() {
-        String hello = helloService.sayHello("Niki");
-        System.out.printf(helloService.sayHello("Tom"));
+        String hello = helloService.sayHello("World");
         return hello;
     }
 }
