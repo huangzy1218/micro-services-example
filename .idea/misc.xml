@@ -5,6 +5,12 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/nacos-example/tech-nacos-discovery/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-example/dubbo-spring-boot-example/dubbo-spring-boot-consumer-example/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-example/dubbo-spring-boot-example/dubbo-spring-boot-api-example/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-example/dubbo-spring-boot-example/dubbo-spring-boot-provider-example/pom.xml" />
+        <option value="$PROJECT_DIR$/nacos-example/nacos-spring-boot-example/nacos-spring-boot-discovery-example/pom.xml" />
+        <option value="$PROJECT_DIR$/nacos-example/nacos-spring-boot-example/pom.xml" />
       </list>
     </option>
   </component>

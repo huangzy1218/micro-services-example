@@ -1,0 +1,5 @@
+nacos:
+  discovery:
+    server-addr: 39.107.235.5:8848
+    username: nacos
+    password: nacos

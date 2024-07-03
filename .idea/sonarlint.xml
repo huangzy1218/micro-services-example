@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SonarLintProjectSettings">
+    <option name="moduleMapping">
+      <map>
+        <entry key="dubbo-example" value="tech-dubbo" />
+        <entry key="dubbo-spring-boot-api-example" value="tech-dubbo-api" />
+        <entry key="dubbo-spring-boot-consumer-example" value="tech-dubbo-consumer" />
+        <entry key="dubbo-spring-boot-example" value="dubb-spring-boot" />
+        <entry key="dubbo-spring-boot-provider-example" value="tech-dubbo-provider" />
+        <entry key="nacos-example" value="tech-nacos" />
+        <entry key="nacos-spring-boot-config-example" value="tech-nacos-config" />
+        <entry key="nacos-spring-boot-discovery-discovery" value="tech-nacos-discovery" />
+        <entry key="spring-boot-example" value="tech-springboot" />
+      </map>
+    </option>
+  </component>
+</project>

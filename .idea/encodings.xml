@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/dubbo-example/dubbo-sample-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-example/dubbo-spring-boot-example/dubbo-spring-boot-api-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-example/dubbo-spring-boot-example/dubbo-spring-boot-consumer-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-example/dubbo-spring-boot-example/dubbo-spring-boot-provider-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-example/dubbo-spring-boot-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-example/dubbo-spring-boot-example/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-example/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-example/nacos-spring-boot-example/nacos-spring-boot-config-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-example/nacos-spring-boot-example/nacos-spring-boot-discovery-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-example/nacos-spring-boot-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-example/nacos-spring-boot-example/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-example/nacos-spring-cloud-example/nacos-spring-cloud-config-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-example/nacos-spring-cloud-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-example/nacos-spring-cloud-example/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-example/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-example/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/tech-dubbo/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/tech-dubbo/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/tech-dubbo/tech-dubbo-api/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/tech-dubbo/tech-dubbo-consumer/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/tech-dubbo/tech-dubbo-provider/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/tech-nacos/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/tech-nacos/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/tech-springboot/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/tech-springboot/src/main/resources" charset="UTF-8" />
   </component>
 </project>
