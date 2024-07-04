@@ -3,11 +3,9 @@ server:
 
 dubbo:
   application:
-    name: dubbo-provider
+    name: dubbo-example-provider
+  protocol:
+    name: dubbo
+    port: -1
   registry:
     address: zookeeper://39.107.235.5:2181
-
-spring:
-  dubbo:
-    protocol:
-      port: 20883

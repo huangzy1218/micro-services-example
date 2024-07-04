@@ -4,13 +4,17 @@
     <option name="moduleMapping">
       <map>
         <entry key="dubbo-example" value="tech-dubbo" />
+        <entry key="dubbo-spring-api-example" value="dubbo-sample-api-example" />
         <entry key="dubbo-spring-boot-api-example" value="tech-dubbo-api" />
         <entry key="dubbo-spring-boot-consumer-example" value="tech-dubbo-consumer" />
         <entry key="dubbo-spring-boot-example" value="dubb-spring-boot" />
         <entry key="dubbo-spring-boot-provider-example" value="tech-dubbo-provider" />
+        <entry key="dubbo-spring-example" value="dubbo-sample-example" />
         <entry key="nacos-example" value="tech-nacos" />
         <entry key="nacos-spring-boot-config-example" value="tech-nacos-config" />
         <entry key="nacos-spring-boot-discovery-discovery" value="tech-nacos-discovery" />
+        <entry key="nacos-spring-cloud-discovery-example" value="nacos-spring-cloud-config-discovery-example" />
+        <entry key="nacos-spring-cloud-discovery-provider-example" value="nacos-spring-cloud-discovery-example" />
         <entry key="spring-boot-example" value="tech-springboot" />
       </map>
     </option>
