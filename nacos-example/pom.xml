@@ -14,11 +14,13 @@
     <modules>
         <module>nacos-spring-boot-example</module>
         <module>nacos-spring-cloud-example</module>
+        <module>nacos-dubbo-example</module>
     </modules>
 
     <properties>
         <nacos-spring-boot.version>0.2.12</nacos-spring-boot.version>
         <nacos-spring-cloud.version>2021.1</nacos-spring-cloud.version>
+        <dubbo.version>3.0.5</dubbo.version>
     </properties>
 
     <dependencies>

@@ -15,9 +15,6 @@
         <module>dubbo-spring-boot-example</module>
         <module>dubbo-spring-example</module>
         <module>dubbo-sample-example</module>
-        <module>dubbo-sample-example/dubbo-sample-api-example</module>
-        <module>dubbo-sample-example/dubbo-sample-provider-example</module>
-        <module>dubbo-sample-example/dubbo-sample-consumer-example</module>
     </modules>
 
     <properties>

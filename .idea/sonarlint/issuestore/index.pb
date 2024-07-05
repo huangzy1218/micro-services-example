@@ -111,3 +111,13 @@ Hdubbo-example/dubbo-sample-example/dubbo-sample-consumer-example/pom.xml,5\c\5
 “dubbo-example/dubbo-spring-boot-example/dubbo-spring-boot-consumer-example/src/main/java/org/example/dubbo/springboot/DubboConsumerApplication.java,3\0\301c405fe1f82af639386ff038d8d6131faaee93
 Æ
 •dubbo-example/dubbo-spring-boot-example/dubbo-spring-boot-consumer-example/src/main/java/org/example/dubbo/springboot/controller/HelloController.java,e\1\e1c4e2625df8b1cbc0ecc824c155d5b70ead8a85
+Y
+)nacos-example/nacos-dubbo-example/pom.xml,9\f\9fc5c956e2eedc9de8b820b95fa64e55bfba947b
+‘
+anacos-example/nacos-dubbo-example/src/main/java/org/example/nacos/dubbo/service/HelloService.java,f\c\fceb040d0b3f1bcd98f396e49b0117e6d1dacd1d
+•
+enacos-example/nacos-dubbo-example/src/main/java/org/example/nacos/dubbo/service/HelloServiceImpl.java,0\c\0cdba036f3752097a889e0a991fa80723f1cd669
+£
+snacos-example/nacos-dubbo-example/src/main/java/org/example/nacos/dubbo/provider/DubboServiceProviderBootstrap.java,1\b\1b69aee7374d294ef597fec6111b5b8b8a22d4f1
+£
+snacos-example/nacos-dubbo-example/src/main/java/org/example/nacos/dubbo/consumer/DubboServiceConsumerBootstrap.java,6\a\6ab49e17dd097efdde5ae686e4a98d5fb413c601

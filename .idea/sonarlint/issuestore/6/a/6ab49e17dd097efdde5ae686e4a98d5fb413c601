@@ -1,0 +1,8 @@
+
+v
+java:S1874"3Remove this use of "EnableDubbo"; it is deprecated.(¬ÒØ«8–åŒ„ˆ2J$0542a583-40f3-4d62-88f3-2eef0621721c
+y
+java:S1874"1Remove this use of "Reference"; it is deprecated.(ÄÃ¯¶úÿÿÿÿ8—åŒ„ˆ2J$5d869785-985d-4263-8715-ffaaaf21795f
+¯
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8ªÄôí‡2J$5c7f89b9-4a22-43fd-9d02-33d04ee1d321
+m	java:S106 "+Replace this use of System.out by a logger.(¬½¼Ô8«Äôí‡2J$7f4d7827-2462-4fa9-a070-1eaa1deb266c
