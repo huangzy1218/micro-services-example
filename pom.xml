@@ -16,6 +16,7 @@
         <module>spring-boot-example</module>
         <module>dubbo-example</module>
         <module>nacos-example</module>
+        <module>eureka-example</module>
     </modules>
 
     <properties>

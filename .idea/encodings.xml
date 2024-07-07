@@ -18,6 +18,11 @@
     <file url="file://$PROJECT_DIR$/dubbo-example/dubbo-spring-example/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo-example/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo-example/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-example/eureka-consumer-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-example/eureka-provider-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-example/eureka-server-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-example/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nacos-example/nacos-dubbo-example/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nacos-example/nacos-spring-boot-example/nacos-spring-boot-config-example/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nacos-example/nacos-spring-boot-example/nacos-spring-boot-discovery-example/src/main/java" charset="UTF-8" />
