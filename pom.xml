@@ -17,6 +17,8 @@
         <module>dubbo-example</module>
         <module>nacos-example</module>
         <module>eureka-example</module>
+        <module>openfeign-example</module>
+        <module>openfeign-example/openfeign-provider-example</module>
     </modules>
 
     <properties>
