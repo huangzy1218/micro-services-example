@@ -9,7 +9,7 @@
         <version>2.4.2</version>
     </parent>
     <groupId>org.example</groupId>
-    <artifactId>tech-playground</artifactId>
+    <artifactId>micro-services-example</artifactId>
     <version>${revision}</version>
     <packaging>pom</packaging>
     <modules>

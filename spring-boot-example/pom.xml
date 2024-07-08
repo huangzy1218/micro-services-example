@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>org.example</groupId>
-        <artifactId>tech-playground</artifactId>
+        <artifactId>micro-services-example</artifactId>
         <version>${revision}</version>
     </parent>
 

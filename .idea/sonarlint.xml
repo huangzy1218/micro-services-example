@@ -10,6 +10,7 @@
         <entry key="dubbo-spring-boot-example" value="dubb-spring-boot" />
         <entry key="dubbo-spring-boot-provider-example" value="tech-dubbo-provider" />
         <entry key="dubbo-spring-example" value="dubbo-sample-example" />
+        <entry key="micro-services-example" value="tech-playground" />
         <entry key="nacos-example" value="tech-nacos" />
         <entry key="nacos-spring-boot-config-example" value="tech-nacos-config" />
         <entry key="nacos-spring-boot-discovery-discovery" value="tech-nacos-discovery" />
