@@ -1,14 +1,14 @@
 package org.example.nacos.dubbo.service;
 
 
-import com.alibaba.dubbo.config.annotation.Service;
 import com.alibaba.dubbo.rpc.RpcContext;
+import org.apache.dubbo.config.annotation.DubboService;
 import org.springframework.beans.factory.annotation.Value;
 
 /**
  * @author Huang Z.Y.
  */
-@Service(version = "${example.service.version}")
+@DubboService(version = "${example.service.version}")
 public class HelloServiceImpl implements HelloService {
 
     @Value("${example.service.name}")
